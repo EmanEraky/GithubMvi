@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding:rxbinding-recyclerview-v7-kotlin:0.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3c2879c9d96da218a09ae4ea9eeda74/jetified-rxbinding-recyclerview-v7-kotlin-0.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3c2879c9d96da218a09ae4ea9eeda74/jetified-rxbinding-recyclerview-v7-kotlin-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3c2879c9d96da218a09ae4ea9eeda74/jetified-rxbinding-recyclerview-v7-kotlin-0.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-recyclerview-v7-kotlin/0.4.0/f7a9a3f6cf0b130a49f6b27f2e59531d92020da/rxbinding-recyclerview-v7-kotlin-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-recyclerview-v7-kotlin/0.4.0/659698ef79b948ec2c028dc2c9ebe1f1517b8253/rxbinding-recyclerview-v7-kotlin-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
